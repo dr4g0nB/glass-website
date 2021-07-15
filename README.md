@@ -16,4 +16,4 @@
 - Flexbox
 
 ### Useful resources
-![Dev Ed] (https://www.youtube.com/watch?v=O7WbVj5apxU&list=TLPQMTUwNzIwMjG1AhrBHofWQg&index=1)
+- [Dev Ed] (https://www.youtube.com/watch?v=O7WbVj5apxU&list=TLPQMTUwNzIwMjG1AhrBHofWQg&index=1)
